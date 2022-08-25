@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 **/node_modules
 .eslintcache
 public
+=======
+node_modules
+.eslintcache
+public
+>>>>>>> f4ab9a8 (Start Over)
