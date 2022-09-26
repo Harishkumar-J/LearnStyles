@@ -25,6 +25,7 @@ const CourseInput = (props) => {
 	return (
 		<form onSubmit={formSubmitHandler}>
 			{/* <div className='form-control'> */}
+
 			{/* to include the dynmic css use template literals */}
 			<div className={`form-control ${!validGoal ? 'invalid' : ''}`}>
 				{/* <label style={{ color: validGoal ? 'black' : 'red' }}> */}
