@@ -1,0 +1,9 @@
+.userDetail {
+	margin: 1rem 60px;
+	background: rebeccapurple;
+	color: white;
+	padding: 2px 2rem;
+	box-shadow: -3px 4px 7px rgb(24 40 102 / 58%);
+	cursor: pointer;
+	width: 35rem;
+}
